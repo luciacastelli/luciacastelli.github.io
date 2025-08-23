@@ -36,7 +36,7 @@ All these things considered, you go to your database of all the genomes sequence
 
 ...not. You run [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi), the algorithm that could help you solve this puzzle. It is a widely used tool for finding regions of similarity between biological sequences. By comparing your mysterious sample against known genetic sequences, it can help you uncover whether this Martian organism shares a hidden connection with life on our home planet.
 
-Alright, that's enough introduction. But how does the algorithm work? Let's go over it in four steps: indexing, local alignment, extension, and statistical significance filtering.
+Alright, that's enough introduction. But how does the algorithm work? Let's go over it in **four steps: indexing, local alignment, extension, and statistical significance filtering.**
 
 Step 1:  Indexing
 ======
@@ -51,7 +51,7 @@ The simplest substitution matrix I can think of is one where a transition deduct
 
 [My simple DNA substitution matrix where the column nucleotides originate from the query sequence, and the row nucleotides are the possible substitutions.](images/post1-matrix.png)
 
-A neighboring word is only included in the list if the similarity score (based on the chosen scoring matrix) exceeds a certain predetermined threshold_1 (remember this parameter).These high-scoring words are stored in a data structure called a [hash-table](https://en.wikipedia.org/wiki/Hash_table), which allows for fast lookups similarly to how a telephone directory would. The indexing is precomputed for sequences that are already uploaded in a database, to speed up the process when running BLAST.
+A neighboring word is only included in the list if the similarity score (based on the chosen scoring matrix) exceeds a certain predetermined **threshold_1** (remember this parameter).These high-scoring words are stored in a data structure called a [hash-table](https://en.wikipedia.org/wiki/Hash_table), which allows for fast lookups similarly to how a telephone directory would. The indexing is precomputed for sequences that are already uploaded in a database, to speed up the process when running BLAST.
 
 By following these steps, BLAST efficiently identifies and ranks local alignments between a query sequence and database sequences. Its design balances speed and sensitivity, making it highly effective for large-scale sequence searches.
 
@@ -69,7 +69,7 @@ BLAST checks each position in your query sequence (Q[i], where i is an index tha
 Step 3: Extension
 ======
 
-For each seed hit found, BLAST attempts to extend the alignment in both directions (left and right) to find a local alignment. The difference with the previous step, is that these alignments aren't necessarily exact, but allow for differences between the sequences. The algorithm continues aligning bases (for DNA) or amino acids (for proteins) until the score drops below a cutoff value that we can call threshold_2 (remember this as well). The result of this step are the high-scoring sequence pairs (HSPs), which are gapped or ungapped alignments of significant length, i.e. the highest scoring points, where either shortening or lengthening the alignment would result in a worse sum total.
+For each seed hit found, BLAST attempts to extend the alignment in both directions (left and right) to find a local alignment. The difference with the previous step, is that these alignments aren't necessarily exact, but allow for differences between the sequences. The algorithm continues aligning bases (for DNA) or amino acids (for proteins) until the score drops below a cutoff value that we can call **threshold_2** (remember this as well). The result of this step are the high-scoring sequence pairs (HSPs), which are gapped or ungapped alignments of significant length, i.e. the highest scoring points, where either shortening or lengthening the alignment would result in a worse sum total.
 
 [Algorithm details](images/post1-hsp.png)
 
