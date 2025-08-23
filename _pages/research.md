@@ -4,6 +4,5 @@ permalink: /research/
 author_profile: true
 ---
 
-# Thesis: Search for a glycobiological gene signature potentially predictive of the transition from ulcerative colitis to ccrac
-## 2025
+## Thesis: Search for a glycobiological gene signature potentially predictive of the transition from ulcerative colitis to ccrac (2025)
 I did this with a big focus on transcriptomic analysis.
