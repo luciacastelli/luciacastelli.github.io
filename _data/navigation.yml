@@ -29,5 +29,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Single-cell"
+    url: /single-cell/
+
   # - title: "CV"
   #   url: /cv-json/
