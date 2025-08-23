@@ -8,9 +8,6 @@ tags:
   - science
 ---
 
-Introduction: The Archimedes Palimpsest
-======
-
 In medieval Europe, scrolls were often recycled due to the high cost of producing parchment, which was made from animal skin. These recycled manuscripts were called palimpsests, a word that derives from ancient Greek palimpsēstos, which means engraved again. In 1906, one of these palimpsests was found to contain three mathematical treatises by Archimedes, covered by psalms and prayers from a convent. They were recovered with X-Ray technology and Artificial Intelligence. This is the way in which we rudimentarily recover pieces of our past wisdom.<!--more-->
 <br/><img src='/images/post2-palimpsest.png'>
 
@@ -65,4 +62,5 @@ Some closing words
 ======
 
 I hope you enjoyed this read! I made most of my research for this post in 2022, based chiefly on the first edition of the book "Why Evolution is True", written in 2009 by the American biologist Jerry Coyne, who is a professor at the University of Chicago. I recommend this read to general audiences, since it was written in the very accessible vocabulary characteristic of pop science books. If you are interested in these topics it is a good place to start. However, I did find some out-of-date information in it. So, if I made a mistake or you have something to contribute or update, please let me know.
+
 
