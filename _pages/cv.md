@@ -11,7 +11,8 @@ redirect_from:
 
 # Lucía Castelli
 
-- Vienna, Austria; [lucicastelli@uade.edu.ar](mailto:lucicastelli@uade.edu.ar)
+- Vienna, Austria
+- [lucicastelli@uade.edu.ar](mailto:lucicastelli@uade.edu.ar)
 - [+43 65097-52635](tel:+436509752635)
 - [luciacastelli.github.io](https://luciacastelli.github.io/)
 - [linkedin.com/in/luciacastelli](https://linkedin.com/in/luciacastelli)
@@ -23,13 +24,13 @@ redirect_from:
 
 **Universidad Argentina de la Empresa** — University Degree in Biotechnology  
 *Jul 2020 – Sep 2025*  
-- 5-year degree with Thesis, equivalent to a combined Bachelor–Master program. Final grade average: **81.1%**.  
+- 5-year degree with Thesis, equivalent to a combined Bachelor–Master program. Final grade average: 81.1%.  
 - **Teaching experience:** *Molecular Biology and Physiology* lectures and laboratory sessions (2022).  
 - **STEM Outreach:** Led public scientific events, fairs, and workshops (2022); Member of the “Fishroom” Team, managing the aquarium and science communication (2020–2021); Microbiology Technician in short film [Proyecto Divergente](https://www.uade.edu.ar/acerca-de-uade/uade-art/novedades/proyecto-divergente/) (2022); [Research Testimony](https://youtu.be/P8yRJiHbBfw?si=8wvJzR-Xr5_cH5Nz) (2024).  
 
 **University of Applied Sciences Upper Austria** — Academic Exchange  
 *Sep 2023 – Feb 2024*  
-- Excelled at BSc. and MSc. courses (e.g. Scientific Programming), with an average of **1.11** (1 = 100%).  
+- Excelled at BSc. and MSc. courses (e.g. Scientific Programming), with an average of 1.11 (1 = 100%).  
 
 ---
 
