@@ -13,8 +13,6 @@ redirect_from:
 </div>
 </header>
 
-<iframe src="https://rpubs.com/lcastelli/neuroblastoma" style= "width:100%"></iframe>
-
 <div id="TOC" class="toc">
 <div class="inner">
 <ul>
