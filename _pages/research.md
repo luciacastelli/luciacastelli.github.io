@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Thesis: Search For a Glycobiological Signature Potentially Predictive Of The Transition From Ulcerative Colitis (UC) To Colitis-Associated Colorrectal Cancer (CACRC)
+## Thesis title: "Search For a Glycobiological Signature Potentially Predictive Of The Transition From Ulcerative Colitis (UC) To Colitis-Associated Colorrectal Cancer (CACRC)"
 
 **Abstract**:
 
