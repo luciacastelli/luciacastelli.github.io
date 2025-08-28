@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a Biotechnologist from Buenos Aires, Argentina, with experience in both computational biology and wet-lab research. I earned my 5-year degree at Universidad Argentina de la Empresa (UADE) in 2025, completing my thesis work at the Molecular and Functional Glycomics Laboratory (IBYME-CONICET). My scientific interests focus on the nervous system —from neurodegenerative diseases and ageing, to cancers (such as glioblastoma and neuroblastoma) and their immunity—, and my goal is to contribute to new therapies to improve human health.
+Hello! I am a Biotechnologist from Argentina with experience in both computational biology and wet-lab research. I earned my degree at Universidad Argentina de la Empresa (UADE) in 2025, completing my thesis at the [Molecular and Functional Glycomics Laboratory (IBYME-CONICET)](https://ibyme.org.ar/investigacion/en/laboratories/molecular-and-functional-glycomics/).
 
-I'm currently looking for open PhD positions. You can download my CV <a href="/files/CV2025.pdf" download>here</a>.
+My research interests center on developing new therapies to improve human health, with a focus on the nervous system. I am particularly interested in the biology of neurodegenerative diseases, ageing, and cancers such as glioblastoma and neuroblastoma, as well as the role of immunity in these contexts.
+
+I'm currently seeking PhD opportunities. You can download my CV <a href="/files/CV2025.pdf" download>here</a>.
