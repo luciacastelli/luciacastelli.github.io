@@ -4,7 +4,7 @@ title: "Single-cell transcriptomics and epigenomics manual"
 author_profile: true
 redirect_from:
   - /single-cell/
-  - /single-cell.html
+  - /single-cell.md
 ---
 
 <header>
