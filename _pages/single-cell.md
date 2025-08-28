@@ -1,6 +1,6 @@
 ---
 permalink: /single-cell
-title: "Recreating Single-cell transcriptomics and epigenomics"
+title: "Single-cell transcriptomics and epigenomics manual"
 author_profile: true
 redirect_from:
   - /single-cell/
