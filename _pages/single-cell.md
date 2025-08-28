@@ -1,7 +1,7 @@
 ---
 permalink: /single-cell
-title: "Single-cell transcriptomics and epigenomics manual"
-author_profile: true
+title: "Recreating ´Single-cell transcriptomics and epigenomics unravel the role of monocytes in neuroblastoma bone marrow metastasis"
+author_profile: false
 redirect_from:
   - /single-cell/
   - /single-cell.md
@@ -9,9 +9,6 @@ redirect_from:
 
 <header>
 <div class="inner">
-<h1 class="title toc-ignore">Recreating ´Single-cell transcriptomics and
-epigenomics unravel the role of monocytes in neuroblastoma bone marrow
-metastasis’</h1>
 <h3 class="author">Lucía Castelli</h3>
 <h3 class="date">August 2025</h3>
 </div>
