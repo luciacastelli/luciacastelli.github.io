@@ -11,12 +11,7 @@ redirect_from:
 
 # Lucía Castelli
 
-📍 Vienna, Austria  
-📧 [lucicastelli@uade.edu.ar](mailto:lucicastelli@uade.edu.ar)  
-📱 [+43 65097-52635](tel:+436509752635)  
-🌐 [luciacastelli.github.io](https://luciacastelli.github.io/)  
-💼 [linkedin.com/in/luciacastelli](https://linkedin.com/in/luciacastelli)  
-🐈 [github.com/luciacastelli](https://github.com/luciacastelli)  
+Vienna, Austria; [lucicastelli@uade.edu.ar](mailto:lucicastelli@uade.edu.ar); [+43 65097-52635](tel:+436509752635);[luciacastelli.github.io](https://luciacastelli.github.io/); [linkedin.com/in/luciacastelli](https://linkedin.com/in/luciacastelli); [github.com/luciacastelli](https://github.com/luciacastelli)  
 
 ---
 
