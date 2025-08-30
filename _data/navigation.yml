@@ -12,12 +12,8 @@ main:
   - title: "Research"
     url: /research/  
     
+  - title: "Projects"
+    url: /projects/
+
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title: "DEGs Visualizer"
-    url: /degsv/
-
-  - title: "Single-cell Manual"
-    url: /single-cell/
-    
