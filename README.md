@@ -1,1 +1,1 @@
-This is the repository for my personal website, based on a template that can be found here: https://academicpages.github.io/.
+This is the repository for my personal website, based on a template that can be found here: [https://github.com/academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
