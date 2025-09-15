@@ -3,11 +3,11 @@ title: "Recreating ´Single-cell transcriptomics and epigenomics unravel the rol
 collection: projects
 category: manuscripts
 permalink: /projects/single-cell-manual
-excerpt: 'In this *(ongoing!)* project, I recreate the study “Single-cell transcriptomics and epigenomics unravel the role of monocytes in neuroblastoma bone marrow metastasis” (Fetahu et al.), with educational purposes. [Link to project](https://rpubs.com/lcastelli/neuroblastoma).'
+excerpt: 'In this —ongoing— project, I recreate the study “Single-cell transcriptomics and epigenomics unravel the role of monocytes in neuroblastoma bone marrow metastasis” (Fetahu et al.), with educational purposes. [Link to project](https://rpubs.com/lcastelli/neuroblastoma).'
 date: 2025-08-30
 ---
 
-This *(ongoing!)* project is a training and educational initiative where I recreate the study [“Single-cell transcriptomics and epigenomics unravel the role of monocytes in neuroblastoma bone marrow metastasis” (Fetahu et al.)](https://www.nature.com/articles/s41467-023-39210-0). My goal is to reproduce the analyses step by step, while explaining the biological concepts, R code, and reasoning in a way that is approachable for students and researchers alike.
+This —ongoing— project is a training and educational initiative where I recreate the study [“Single-cell transcriptomics and epigenomics unravel the role of monocytes in neuroblastoma bone marrow metastasis” (Fetahu *et al*., 2023)](https://www.nature.com/articles/s41467-023-39210-0). My goal is to reproduce the analyses step by step, while explaining the biological concepts, R code, and reasoning in a way that is approachable for students and researchers alike.
 
 By revisiting this study, I aim to:
 
